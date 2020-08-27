@@ -24,6 +24,17 @@
 You can download from [GitHub Releases](https://github.com/zyrk-dev/Zyrk-Version/releases)
 
 
+**Supported Version**
+
+If you download from the [Releases](https://github.com/zyrk-dev/Zyrk-Version/releases) tab, select the version for you're minecraft.
+
+| Platform | File |
+| -------- | ---- |
+| Minecraft 1.7.10 | `OptiFine_1.7.10_HD_U_E7.jar` |
+| Minecraft 1.8.9 | `OptiFine_1.8.9_HD_U_L5.jar` |
+| Minecraft 1.9.4 | `OptiFine_1.9.4_HD_U_H5.jar` |
+| Minecraft 1.12.2 | `OptiFine_1.12.2_HD_U_F5.jar` |
+
 #### Change cape like you want 
 
 You can get and change you're cape on joining the [Discord][discord]
